@@ -14,4 +14,4 @@ export default {
       'no-twemoji': ['Fira Sans', 'system-ui', 'monospace'],
     },
   },
-} as Config
+} satisfies Config
